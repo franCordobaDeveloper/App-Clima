@@ -1,4 +1,5 @@
 const Busquedas = require("./models/busquedas");
+require('dotenv').config();
 
 const { leerInput, inquirerMenu, pausa } = require("./helpers/inquirer");
 
