@@ -1,12 +1,3 @@
-<style>
-    h1 {
-    background-color: #f2f2f2;
-    font-size: 28px;
-    padding: 10px;
-    border-radius: 5px;
-    }
-</style>
-
 # App-Clima
 Aplicación del clima utilizando GeoLocation y OpenWeaterMaps.  
 
